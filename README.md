@@ -13,16 +13,16 @@ offering a fast, reliable tool for assessing drinking water safety.
 
 ### Dataset Overview:
 This dataset has 3276 records with following 10 attributes.
-**1. ph:** Acidity/alkalinity level of the water.
-**2. Hardness:** Concentration of calcium and magnesium.
-**3. Solids:** Total dissolved solids in the water.
-**4. Chloramines:** Concentration of chloramines, used for disinfection.
-**5. Sulfate:** Sulfate ion concentration in the water.
-**6. Conductivity:** Water's ability to conduct electricity, related to ion content.
-**7. Organic_carbon:** Organic matter content in the water.
-**8. trihalomethanes:** Byproducts of water chlorination.
-**9. Turbidity:** Water clarity, indicating particle presence.
-**10. Potability:** Whether the water is potable ("Potable" or "Not Potable").
+**1. ph:** Acidity/alkalinity level of the water.    
+**2. Hardness:** Concentration of calcium and magnesium.       
+**3. Solids:** Total dissolved solids in the water.      
+**4. Chloramines:** Concentration of chloramines, used for disinfection.        
+**5. Sulfate:** Sulfate ion concentration in the water.       
+**6. Conductivity:** Water's ability to conduct electricity, related to ion content.         
+**7. Organic_carbon:** Organic matter content in the water.     
+**8. trihalomethanes:** Byproducts of water chlorination.       
+**9. Turbidity:** Water clarity, indicating particle presence.        
+**10. Potability:** Whether the water is potable ("Potable" or "Not Potable").        
 
 ### Summary of results:
 **Random Forest:** 0.81    
