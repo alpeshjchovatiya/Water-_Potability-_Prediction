@@ -12,7 +12,7 @@ Develop a machine learning model to predict water potability using key water pro
 offering a fast, reliable tool for assessing drinking water safety.
 
 ### Dataset Overview:
-This dataset has 3276 records with following 10 attributes.
+This dataset has 3276 records with following 10 attributes.          
 **1. ph:** Acidity/alkalinity level of the water.    
 **2. Hardness:** Concentration of calcium and magnesium.       
 **3. Solids:** Total dissolved solids in the water.      
