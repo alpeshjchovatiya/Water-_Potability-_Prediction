@@ -1,6 +1,6 @@
 
-### Title: Water Potability Prediction 
-### Author: Alpesh Chovatiya  
+### Title: Water Potability Prediction  
+### Author: Alpesh Chovatiya
 
 ### Problem Statement:
 Access to clean and safe drinking water is critical, yet many regions struggle with water contamination, and millions of people worldwide suffer from waterborne diseases 
