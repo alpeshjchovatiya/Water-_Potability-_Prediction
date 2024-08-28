@@ -25,12 +25,12 @@ This dataset has 3276 records with following 10 attributes.
 10. Potability: Whether the water is potable ("Potable" or "Not Potable").
 
 ### Summary of results:
-Random Forest -->	0.81
-XGB --> 0.78
-Decision Tree  --> 0.74
-Support Vector Classifier --> 0.68
-Logistic Regression --> 0.63
-K-Nearest Neighbors --> 0.61
+Random Forest -->	0.81    
+XGB --> 0.78    
+Decision Tree  --> 0.74    
+Support Vector Classifier --> 0.68    
+Logistic Regression --> 0.63    
+K-Nearest Neighbors --> 0.61    
 
 #### Best performing model for current dataset is Random Forest  with accuracy of 81%.
 
