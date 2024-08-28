@@ -24,7 +24,7 @@ This dataset has 3276 records with following 10 attributes.
 **9. Turbidity:** Water clarity, indicating particle presence.        
 **10. Potability:** Whether the water is potable ("Potable" or "Not Potable").        
 
-### Summary of results:
+### Summary of Results:
 **Random Forest:** 0.81    
 **XGB:** 0.78    
 **Decision Tree:** 0.74    
